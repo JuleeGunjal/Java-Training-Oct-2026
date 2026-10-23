@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41ec1f42-75a6-437d-9ed3-3da251582ab2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assignment2/thread/PrintNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment2/thread/Sender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment3/MapSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment3/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment3/TotalNumberOfOccurances.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,27 +28,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Demo.executor": "Run",
-    "Application.Greet.executor": "Run",
-    "Application.MapSorting.executor": "Run",
-    "Application.MyClass.executor": "Run",
-    "Application.PrintNumbers.executor": "Run",
-    "Application.TotalNumberOfOccurances.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "assignment-2",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/jos/IdeaProjects/Java Assignment",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/jos/IdeaProjects/Dummy/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Greet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapSorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TotalNumberOfOccurances.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;assignment-2&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jos/IdeaProjects/Java Assignment&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/jos/IdeaProjects/Dummy/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MapSorting">
+}</component>
+  <component name="RunManager">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="assignemnt.thread.Demo" />
       <module name="Dummy" />
